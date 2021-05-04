@@ -314,7 +314,7 @@ p {
 .test-col-1 {
   flex-basis: 40%;
   border-radius: 10px;
-  margin-bottom: 5%;
+  margin-bottom: 10%;
   text-align: left;
   grid-column: 2/4;
   background: #e9dada;
@@ -325,7 +325,7 @@ p {
 .test-col-2 {
   flex-basis: 40%;
   border-radius: 10px;
-  margin-bottom: 5%;
+  margin-bottom: 10%;
   text-align: left;
   grid-column: 5/7;
   background: #e9dada;
