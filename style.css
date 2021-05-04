@@ -321,6 +321,7 @@ p {
   padding: 25px;
   cursor: pointer;
   display: flex;
+  transition: 0.5s;
 }
 .test-col-2 {
   flex-basis: 40%;
@@ -332,6 +333,7 @@ p {
   padding: 25px;
   cursor: pointer;
   display: flex;
+  transition: 0.5s;
 }
 
 .test-col-1 img {
